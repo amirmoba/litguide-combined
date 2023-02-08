@@ -1,0 +1,14 @@
+{
+  "require": {
+    "phpmailer/phpmailer": "^6.4",
+    "ext-mysqli": "*",
+    "ext-curl": "*",
+    "ext-fileinfo": "*",
+    "ext-ctype": "*",
+    "ext-mbstring": "*",
+    "dompdf/dompdf": "^2.0",
+    "econea/nusoap": "^0.9.12"
+  },
+  "name": "logix/fsol",
+  "description": "form-solutions"
+}
